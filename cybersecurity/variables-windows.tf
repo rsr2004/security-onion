@@ -5,5 +5,5 @@ variable "windows_ami" {
 
 variable "windows_type" {
   type = string
-  default = "t2.small"
+  default = "t2.medium"
 }
